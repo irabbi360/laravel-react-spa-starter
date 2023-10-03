@@ -18,3 +18,5 @@ yarn-error.log
 /.idea
 /.vscode
 .editorconfig
+yarn.lock
+package-lock.json
